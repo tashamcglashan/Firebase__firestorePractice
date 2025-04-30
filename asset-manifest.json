@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firebase__firestorePractice/static/css/main.42108ce3.css",
+    "main.js": "/Firebase__firestorePractice/static/js/main.04630fc6.js",
+    "static/js/453.d064e9c0.chunk.js": "/Firebase__firestorePractice/static/js/453.d064e9c0.chunk.js",
+    "index.html": "/Firebase__firestorePractice/index.html",
+    "main.42108ce3.css.map": "/Firebase__firestorePractice/static/css/main.42108ce3.css.map",
+    "main.04630fc6.js.map": "/Firebase__firestorePractice/static/js/main.04630fc6.js.map",
+    "453.d064e9c0.chunk.js.map": "/Firebase__firestorePractice/static/js/453.d064e9c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42108ce3.css",
+    "static/js/main.04630fc6.js"
+  ]
+}
